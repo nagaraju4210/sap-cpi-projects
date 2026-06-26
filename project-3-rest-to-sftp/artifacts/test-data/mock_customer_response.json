@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily.johnson@://dummyjson.com",
+      "phone": "+1 202 555 0143",
+      "company": {
+        "name": "Tech Solutions Inc."
+      }
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 1
+}
