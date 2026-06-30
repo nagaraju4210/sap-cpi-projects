@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://integration.com/customer/target"
+            xmlns="http://integration.com/customer/target"
+            elementFormDefault="qualified">
+
+    <xsd:element name="Customer">
+
+        <xsd:complexType>
+
+            <xsd:sequence>
+
+                <xsd:element name="customerId" type="xsd:string"/>
+                <xsd:element name="firstName" type="xsd:string"/>
+                <xsd:element name="lastName" type="xsd:string"/>
+                <xsd:element name="email" type="xsd:string"/>
+                <xsd:element name="phone" type="xsd:string"/>
+                <xsd:element name="city" type="xsd:string"/>
+                <xsd:element name="country" type="xsd:string"/>
+                <xsd:element name="customerType" type="xsd:string"/>
+                <xsd:element name="status" type="xsd:string"/>
+                <xsd:element name="createdDate" type="xsd:date"/>
+
+            </xsd:sequence>
+
+        </xsd:complexType>
+
+    </xsd:element>
+
+</xsd:schema>
