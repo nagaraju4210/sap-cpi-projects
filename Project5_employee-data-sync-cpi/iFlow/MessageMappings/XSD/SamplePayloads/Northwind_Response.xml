@@ -1,0 +1,122 @@
+<Employees>
+<Employee>
+<Address>507 - 20th Ave. E.&#xd;
+Apt. 2A</Address>
+<HomePhone>(206) 555-9857</HomePhone>
+<FirstName>Nancy</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Ms.</TitleOfCourtesy>
+<HireDate>1992-05-01T00:00:00.000</HireDate>
+<Country>USA</Country>
+<LastName>Davolio</LastName>
+<City>Seattle</City>
+<EmployeeID>1</EmployeeID>
+<BirthDate>1948-12-08T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>908 W. Capital Way</Address>
+<HomePhone>(206) 555-9482</HomePhone>
+<FirstName>Andrew</FirstName>
+<Title>Vice President, Sales</Title>
+<TitleOfCourtesy>Dr.</TitleOfCourtesy>
+<HireDate>1992-08-14T00:00:00.000</HireDate>
+<Country>USA</Country>
+<LastName>Fuller</LastName>
+<City>Tacoma</City>
+<EmployeeID>2</EmployeeID>
+<BirthDate>1952-02-19T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>722 Moss Bay Blvd.</Address>
+<HomePhone>(206) 555-3412</HomePhone>
+<FirstName>Janet</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Ms.</TitleOfCourtesy>
+<HireDate>1992-04-01T00:00:00.000</HireDate>
+<Country>USA</Country>
+<LastName>Leverling</LastName>
+<City>Kirkland</City>
+<EmployeeID>3</EmployeeID>
+<BirthDate>1963-08-30T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>4110 Old Redmond Rd.</Address>
+<HomePhone>(206) 555-8122</HomePhone>
+<FirstName>Margaret</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Mrs.</TitleOfCourtesy>
+<HireDate>1993-05-03T00:00:00.000</HireDate>
+<Country>USA</Country>
+<LastName>Peacock</LastName>
+<City>Redmond</City>
+<EmployeeID>4</EmployeeID>
+<BirthDate>1937-09-19T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>14 Garrett Hill</Address>
+<HomePhone>(71) 555-4848</HomePhone>
+<FirstName>Steven</FirstName>
+<Title>Sales Manager</Title>
+<TitleOfCourtesy>Mr.</TitleOfCourtesy>
+<HireDate>1993-10-17T00:00:00.000</HireDate>
+<Country>UK</Country>
+<LastName>Buchanan</LastName>
+<City>London</City>
+<EmployeeID>5</EmployeeID>
+<BirthDate>1955-03-04T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>Coventry House&#xd;
+Miner Rd.</Address>
+<HomePhone>(71) 555-7773</HomePhone>
+<FirstName>Michael</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Mr.</TitleOfCourtesy>
+<HireDate>1993-10-17T00:00:00.000</HireDate>
+<Country>UK</Country>
+<LastName>Suyama</LastName>
+<City>London</City>
+<EmployeeID>6</EmployeeID>
+<BirthDate>1963-07-02T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>Edgeham Hollow&#xd;
+Winchester Way</Address>
+<HomePhone>(71) 555-5598</HomePhone>
+<FirstName>Robert</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Mr.</TitleOfCourtesy>
+<HireDate>1994-01-02T00:00:00.000</HireDate>
+<Country>UK</Country>
+<LastName>King</LastName>
+<City>London</City>
+<EmployeeID>7</EmployeeID>
+<BirthDate>1960-05-29T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>4726 - 11th Ave. N.E.</Address>
+<HomePhone>(206) 555-1189</HomePhone>
+<FirstName>Laura</FirstName>
+<Title>Inside Sales Coordinator</Title>
+<TitleOfCourtesy>Ms.</TitleOfCourtesy>
+<HireDate>1994-03-05T00:00:00.000</HireDate>
+<Country>USA</Country>
+<LastName>Callahan</LastName>
+<City>Seattle</City>
+<EmployeeID>8</EmployeeID>
+<BirthDate>1958-01-09T00:00:00.000</BirthDate>
+</Employee>
+<Employee>
+<Address>7 Houndstooth Rd.</Address>
+<HomePhone>(71) 555-4444</HomePhone>
+<FirstName>Anne</FirstName>
+<Title>Sales Representative</Title>
+<TitleOfCourtesy>Ms.</TitleOfCourtesy>
+<HireDate>1994-11-15T00:00:00.000</HireDate>
+<Country>UK</Country>
+<LastName>Dodsworth</LastName>
+<City>London</City>
+<EmployeeID>9</EmployeeID>
+<BirthDate>1966-01-27T00:00:00.000</BirthDate>
+</Employee>
+</Employees>

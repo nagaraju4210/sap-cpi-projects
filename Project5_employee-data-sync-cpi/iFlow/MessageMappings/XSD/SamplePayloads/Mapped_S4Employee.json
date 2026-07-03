@@ -1,0 +1,121 @@
+{
+  "S4Employee": [
+    {
+      "employeeId": "1",
+      "firstName": "Nancy",
+      "lastName": "Davolio",
+      "designation": "Sales Representative",
+      "title": "Ms.",
+      "birthDate": "1948-12-08T00:00:00.000",
+      "hireDate": "1992-05-01T00:00:00.000",
+      "address": "507 - 20th Ave. E.\nApt. 2A",
+      "city": "Seattle",
+      "country": "USA",
+      "phone": "(206) 555-9857"
+    },
+    {
+      "employeeId": "2",
+      "firstName": "Andrew",
+      "lastName": "Fuller",
+      "designation": "Vice President, Sales",
+      "title": "Dr.",
+      "birthDate": "1952-02-19T00:00:00.000",
+      "hireDate": "1992-08-14T00:00:00.000",
+      "address": "908 W. Capital Way",
+      "city": "Tacoma",
+      "country": "USA",
+      "phone": "(206) 555-9482"
+    },
+    {
+      "employeeId": "3",
+      "firstName": "Janet",
+      "lastName": "Leverling",
+      "designation": "Sales Representative",
+      "title": "Ms.",
+      "birthDate": "1963-08-30T00:00:00.000",
+      "hireDate": "1992-04-01T00:00:00.000",
+      "address": "722 Moss Bay Blvd.",
+      "city": "Kirkland",
+      "country": "USA",
+      "phone": "(206) 555-3412"
+    },
+    {
+      "employeeId": "4",
+      "firstName": "Margaret",
+      "lastName": "Peacock",
+      "designation": "Sales Representative",
+      "title": "Mrs.",
+      "birthDate": "1937-09-19T00:00:00.000",
+      "hireDate": "1993-05-03T00:00:00.000",
+      "address": "4110 Old Redmond Rd.",
+      "city": "Redmond",
+      "country": "USA",
+      "phone": "(206) 555-8122"
+    },
+    {
+      "employeeId": "5",
+      "firstName": "Steven",
+      "lastName": "Buchanan",
+      "designation": "Sales Manager",
+      "title": "Mr.",
+      "birthDate": "1955-03-04T00:00:00.000",
+      "hireDate": "1993-10-17T00:00:00.000",
+      "address": "14 Garrett Hill",
+      "city": "London",
+      "country": "UK",
+      "phone": "(71) 555-4848"
+    },
+    {
+      "employeeId": "6",
+      "firstName": "Michael",
+      "lastName": "Suyama",
+      "designation": "Sales Representative",
+      "title": "Mr.",
+      "birthDate": "1963-07-02T00:00:00.000",
+      "hireDate": "1993-10-17T00:00:00.000",
+      "address": "Coventry House\nMiner Rd.",
+      "city": "London",
+      "country": "UK",
+      "phone": "(71) 555-7773"
+    },
+    {
+      "employeeId": "7",
+      "firstName": "Robert",
+      "lastName": "King",
+      "designation": "Sales Representative",
+      "title": "Mr.",
+      "birthDate": "1960-05-29T00:00:00.000",
+      "hireDate": "1994-01-02T00:00:00.000",
+      "address": "Edgeham Hollow\nWinchester Way",
+      "city": "London",
+      "country": "UK",
+      "phone": "(71) 555-5598"
+    },
+    {
+      "employeeId": "8",
+      "firstName": "Laura",
+      "lastName": "Callahan",
+      "designation": "Inside Sales Coordinator",
+      "title": "Ms.",
+      "birthDate": "1958-01-09T00:00:00.000",
+      "hireDate": "1994-03-05T00:00:00.000",
+      "address": "4726 - 11th Ave. N.E.",
+      "city": "Seattle",
+      "country": "USA",
+      "phone": "(206) 555-1189"
+    },
+    {
+      "employeeId": "9",
+      "firstName": "Anne",
+      "lastName": "Dodsworth",
+      "designation": "Sales Representative",
+      "title": "Ms.",
+      "birthDate": "1966-01-27T00:00:00.000",
+      "hireDate": "1994-11-15T00:00:00.000",
+      "address": "7 Houndstooth Rd.",
+      "city": "London",
+      "country": "UK",
+      "phone": "(71) 555-4444"
+    }
+  ]
+}
