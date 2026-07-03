@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Employees">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Employee">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Address" type="xs:string" />
+              <xs:element name="HomePhone" type="xs:string" />
+              <xs:element name="FirstName" type="xs:string" />
+              <xs:element name="Title" type="xs:string" />
+              <xs:element name="TitleOfCourtesy" type="xs:string" />
+              <xs:element name="HireDate" type="xs:dateTime" />
+              <xs:element name="Country" type="xs:string" />
+              <xs:element name="LastName" type="xs:string" />
+              <xs:element name="City" type="xs:string" />
+              <xs:element name="EmployeeID" type="xs:unsignedByte" />
+              <xs:element name="BirthDate" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
