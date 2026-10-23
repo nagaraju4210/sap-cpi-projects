@@ -17,3 +17,4 @@
 ### 2. S/4HANA OData Core Transformation Mapping
 *   **Field Combination Mapping:** Source nodes `customer/first_name` + `customer/last_name` are linked using a standard graphical `concat` text block containing a blank white-space literal constant. This points directly to the target enterprise buyer record field `/ns0:SalesOrder/SoldToParty`.
 *   **Transactional Tracking Identifiers:** Source `order_id` values trace directly to the structural target field `/ns0:SalesOrder/PurchaseByCustomer`.
+monitoring_evidence.md
